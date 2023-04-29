@@ -12,5 +12,7 @@ int main (){
 			ans = (ans * i) % m;
 		}
 	}
+	
 	cout << ans;
+	
 }
